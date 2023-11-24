@@ -1,4 +1,4 @@
-File Structure * - main 
+File Structure * - main  folder
 
 App
 -Header
@@ -9,4 +9,11 @@ Components
 *Body 
 - Sign up / Signin
 - Browse
+
+
+
+WORK DONE TILL NOW
+- Created components 
+- Login/Signup form 
+
 

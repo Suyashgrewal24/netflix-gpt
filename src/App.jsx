@@ -1,14 +1,14 @@
 import React from 'react'
+import Header from './Components/Header/Header'
+import Body from './Components/Body/Body'
+import './App.css'
 
 const App = () => {
   return (
     <>
-    <div className='text-yellow-300'>App</div>
-    <h1>
-
-Hello
-    </h1>
-    </>
+    <Header/>
+    <Body/>
+</>
   )
 }
 
